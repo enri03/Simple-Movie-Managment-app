@@ -1,0 +1,58 @@
+[
+    {
+      "id": "b28c1181-3ce0-4a2e-b44a-2e87bac90921",
+      "title": "The Shawshank Redemption",
+      "duration": 142,
+      "year": 1994,
+      "director": ["Frank Darabont"],
+      "starring": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+      "imageUrl": "https://picsum.photos/id/100/320/240",
+      "ratings": [2, 4, 5, 1, 2]
+    },
+    {
+      "id": "0e7b012f-f342-4a45-b7f5-86c85f3fc3af",
+      "title": "Matrix",
+      "duration": 136,
+      "year": 1999,
+      "director": ["Lana Wachowski", "Lilly Wachowski"],
+      "starring": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "imageUrl": "https://picsum.photos/id/200/320/240",
+      "ratings": [4, 5, 3]
+    },
+    {
+      "id": "0ed0dd3d-8816-4ee5-aa07-c52b4ea30ce0",
+      "title": "The Dark Knight",
+      "duration": 152,
+      "year": 2008,
+      "director": ["Christopher Nolan"],
+      "starring": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "imageUrl": "https://picsum.photos/id/300/320/240",
+      "ratings": [3, 5, 2, 4]
+    },
+    {
+      "id": "4cc30aa5-ebc1-444c-8e5a-718fc8eb1619",
+      "title": "12 Angry Men",
+      "duration": 96,
+      "year": 1957,
+      "director": ["Sidney Lumet"],
+      "starring": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam"],
+      "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "imageUrl": "https://picsum.photos/id/400/320/240",
+      "ratings": [2, 4, 3, 2]
+    },
+    {
+      "id": "27621b97-26b4-4f9b-b13f-66dee4606134",
+      "title": "Schindler's List",
+      "duration": 195,
+      "year": 1993,
+      "director": ["Steven Spielberg"],
+      "starring": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "imageUrl": "https://picsum.photos/id/500/320/240",
+      "ratings": [5, 2, 4, 3]
+    }
+  ]
+  

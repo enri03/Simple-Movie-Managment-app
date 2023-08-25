@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.card-body {
+  width: 320px;
+}
+
+.movie-card {
+  margin-bottom: 6px;
+}
